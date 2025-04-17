@@ -54,7 +54,7 @@ export const MARQUEE_TEXT =
       description:
         "A personal portfolio website to showcase projects and skills.",
       imgSrc: project4,
-      link: "https://example.com/blog-platform",
+      link: "https://portfolio-psi-ebon-25.vercel.app/",
     },
     {
       id: 5,
