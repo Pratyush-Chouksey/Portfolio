@@ -1,5 +1,6 @@
 import { LuImport } from 'react-icons/lu'
-import pratytush from '../assets/pratyush.png'
+import Pratyush from '../assets/Pratyush.png';
+
 const Hero = () => {
   return (
     <section>
@@ -18,7 +19,7 @@ const Hero = () => {
           </a>
         </div>
         <div className="w-full">
-          <img src={pratytush} alt='Pratyush Chouksey' className='mt-8 h-140 w-full object-cover'/>
+          <img src={Pratyush} alt='Pratyush Chouksey' className='mt-8 h-140 w-full object-cover'/>
         </div>
       </div>
     </section>
